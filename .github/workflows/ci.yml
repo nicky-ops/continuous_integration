@@ -30,3 +30,7 @@ jobs:
           npm install remark-cli remark-present-lint-consistent
           npx remark . --use remark-present-lint-consistent --frail
           _underscore_
+      - uses: actions/upload-artifact@v3
+        with:
+          name: remark-lint-report
+          path: public/
