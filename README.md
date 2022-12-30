@@ -1,3 +1,5 @@
+[![Step 5, Merge your pull request](https://github.com/nicky-ops/continuous_integration/actions/workflows/5-merge-your-pull-request.yml/badge.svg)](https://github.com/nicky-ops/continuous_integration/actions/workflows/5-merge-your-pull-request.yml)
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
